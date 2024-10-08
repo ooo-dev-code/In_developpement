@@ -41,3 +41,5 @@ def Function():
 Function()
 
 w.mainloop()
+
+#REASON OF THIS UNFINISHED PROJECT: DISCOVERED NUMPY, PYPLOT, PANDA...
